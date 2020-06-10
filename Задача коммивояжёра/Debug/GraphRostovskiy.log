@@ -1,0 +1,19 @@
+﻿  GraphRostovskiy.cpp
+C:\Users\пк\Desktop\GraphRostovskiy\glfunc.h(35,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\пк\Desktop\GraphRostovskiy\glfunc.h(36,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\пк\Desktop\GraphRostovskiy\glfunc.h(71,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\Desktop\GraphRostovskiy\glfunc.h(84,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\пк\Desktop\GraphRostovskiy\glfunc.h(85,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\пк\Desktop\GraphRostovskiy\glfunc.h(89,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\пк\Desktop\GraphRostovskiy\glfunc.h(90,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\пк\Desktop\GraphRostovskiy\glfunc.h(92,22): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\пк\Desktop\GraphRostovskiy\glfunc.h(92,17): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\пк\Desktop\GraphRostovskiy\glfunc.h(92,12): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\пк\Desktop\GraphRostovskiy\glfunc.h(94,17): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\пк\Desktop\GraphRostovskiy\glfunc.h(94,13): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\пк\Desktop\GraphRostovskiy\Graph.h(191,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\Desktop\GraphRostovskiy\Graph.h(193,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\Desktop\GraphRostovskiy\Graph.h(196,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\Desktop\GraphRostovskiy\Graph.h(202,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\пк\Desktop\GraphRostovskiy\Graph.h(205,23): warning C4018: <: несоответствие типов со знаком и без знака
+LINK : fatal error LNK1168: не удается открыть C:\Users\пк\Desktop\GraphRostovskiy\Debug\GraphRostovskiy.exe для записи
