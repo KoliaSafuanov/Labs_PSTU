@@ -1,0 +1,2 @@
+C:\Users\пк\Desktop\GraphRostovskiy\x64\Debug\GraphRostovskiy.exe
+C:\Users\пк\Desktop\GraphRostovskiy\x64\Debug\GraphRostovskiy.pdb

@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Комивояжер.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Graph.cpp
+C:\Users\Радик\Downloads\Labs_PSTU-master\Задача коммивояжёра\glfunc.h(33,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Радик\Downloads\Labs_PSTU-master\Задача коммивояжёра\glfunc.h(34,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Радик\Downloads\Labs_PSTU-master\Задача коммивояжёра\glfunc.h(124,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Радик\Downloads\Labs_PSTU-master\Задача коммивояжёра\glfunc.h(125,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Радик\Downloads\Labs_PSTU-master\Задача коммивояжёра\glfunc.h(129,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Радик\Downloads\Labs_PSTU-master\Задача коммивояжёра\glfunc.h(130,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Радик\Downloads\Labs_PSTU-master\Задача коммивояжёра\glfunc.h(132,24): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\Радик\Downloads\Labs_PSTU-master\Задача коммивояжёра\glfunc.h(132,18): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\Радик\Downloads\Labs_PSTU-master\Задача коммивояжёра\glfunc.h(132,12): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\Радик\Downloads\Labs_PSTU-master\Задача коммивояжёра\glfunc.h(134,17): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Радик\Downloads\Labs_PSTU-master\Задача коммивояжёра\glfunc.h(134,13): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Радик\Downloads\Labs_PSTU-master\Задача коммивояжёра\Graph.h(29,24): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Радик\Downloads\Labs_PSTU-master\Задача коммивояжёра\Graph.h(238,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  GraphRostovskiy.vcxproj -> C:\Users\Радик\Downloads\Labs_PSTU-master\Задача коммивояжёра\x64\Debug\GraphRostovskiy.exe
