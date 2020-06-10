@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Калькулятор.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MyForm.cpp
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Калькулятор.vcxproj -> C:\Users\Радик\source\repos\Калькулятор\Debug\Calc.exe
